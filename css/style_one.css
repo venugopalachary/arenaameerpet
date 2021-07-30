@@ -1,0 +1,240 @@
+.navbar .navbar-brand img{
+	width: 150px;
+	height: 80px;
+}
+.navbar ul{
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+#about p{
+	font-size: 1.1em;
+}
+#portfolio .row img{
+	margin-bottom: 20px;
+
+}
+#clogo .sections{
+	padding-top: 40px !important;
+}
+#clogo img{
+	margin-bottom: 20px;
+}
+#contact p{
+	font-size: 1.1em;
+}
+#gallery img{
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+#abt h3{
+	margin-top: 40px;
+}
+#abt p{
+	font-size: 1.1em;
+}
+#service p{
+	font-size: 1.1em;
+}
+#service:hover img, #service ul li:hover img{
+	background-color: transparent;
+	border-radius: 10px;
+	
+}
+
+#service ul.nav img{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-color: #54585b;
+	padding: 20px;
+	border-radius: 70px;
+}
+.dropdown-menu, .dropdown-menu li a{
+	background-color: black;
+	color: white;
+}
+/** Animation **/
+#courses .container{
+margin-top: 40px;
+margin-bottom: 40px;
+}
+#courses p, #courses{
+	font-size: 1.1em;
+}
+#courses h3{
+	font-weight: bold;
+	color: black;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	background-color: #1a5dac;
+	color: white;
+	width: 100%;
+	text-align: center;
+	padding: 10px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
+#courses ul{
+	list-style-type: square;
+	margin: 10px;
+}
+#courses ul li{
+	line-height: 30px;
+}
+#courses .ani_terms h3{
+	background-color: #1a5dac;
+	color: white;
+	width: 100%;
+	text-align: center;
+	padding: 10px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
+/** vfx **/
+#courses_vfx .container{
+margin-top: 40px;
+margin-bottom: 40px;
+}
+#courses_vfx p, #courses_vfx{
+	font-size: 1.1em;
+}
+#courses_vfx h3{
+	font-weight: bold;
+	color: black;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	background-color: #36aa47;
+	color: white;
+	width: 100%;
+	text-align: center;
+	padding: 10px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
+#courses_vfx ul{
+	list-style-type: square;
+	margin: 10px;
+}
+#courses_vfx ul li{
+	line-height: 30px;
+}
+#courses_vfx .vfx_terms h3{
+	background-color: #36aa47;
+	color: white;
+	width: 100%;
+	text-align: center;
+	padding: 10px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
+/** gwdd **/
+#courses_gwdd .container{
+margin-top: 40px;
+margin-bottom: 40px;
+}
+#courses_gwdd p, #courses_gwdd{
+	font-size: 1.1em;
+}
+#courses_gwdd h3{
+	font-weight: bold;
+	color: black;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	background-color: #7616d0;
+	color: white;
+	width: 100%;
+	text-align: center;
+	padding: 10px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
+#courses_gwdd ul{
+	list-style-type: square;
+	margin: 10px;
+}
+#courses_gwdd ul li{
+	line-height: 30px;
+}
+#courses_gwdd .gwdd_terms h3{
+	background-color: #7616d0;
+	color: white;
+	width: 100%;
+	text-align: center;
+	padding: 10px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
+/** broadcast **/
+#courses_broad .container{
+margin-top: 40px;
+margin-bottom: 40px;
+}
+#courses_broad p, #courses_broad{
+	font-size: 1.1em;
+}
+#courses_broad h3{
+	font-weight: bold;
+	color: black;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	background-color: #da205e;
+	color: white;
+	width: 100%;
+	text-align: center;
+	padding: 10px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
+#courses_broad ul{
+	list-style-type: square;
+	margin: 10px;
+}
+#courses_broad ul li{
+	line-height: 30px;
+}
+#courses_broad .broad_terms h3{
+	background-color: #da205e;
+	color: white;
+	width: 100%;
+	text-align: center;
+	padding: 10px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
+/** dcd **/
+#courses_dcd .container{
+margin-top: 40px;
+margin-bottom: 40px;
+}
+#courses_dcd p, #courses_dcd{
+	font-size: 1.1em;
+}
+#courses_dcd h3{
+	font-weight: bold;
+	color: black;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	background-color: #663f78;
+	color: white;
+	width: 100%;
+	text-align: center;
+	padding: 10px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
+#courses_dcd ul{
+	list-style-type: square;
+	margin: 10px;
+}
+#courses_dcd ul li{
+	line-height: 30px;
+}
+#courses_dcd .dcd_terms h3{
+	background-color: #663f78;
+	color: white;
+	width: 100%;
+	text-align: center;
+	padding: 10px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+}

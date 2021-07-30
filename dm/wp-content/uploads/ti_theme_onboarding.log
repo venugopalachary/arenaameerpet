@@ -1,0 +1,19 @@
+[06/Jul/2019:03:51:00] (ℹ️): WordPress Instance Info:
+[06/Jul/2019:03:51:00] (ℹ️): Home URL : http://digitalmarketing.arenaameerpet.com
+[06/Jul/2019:03:51:00] (ℹ️): Site URL : http://digitalmarketing.arenaameerpet.com
+[06/Jul/2019:03:51:00] (ℹ️): WordPress Version : 5.2.2
+[06/Jul/2019:03:51:00] (ℹ️): Onboarding Version : 1.4.2
+[06/Jul/2019:03:51:00] (ℹ️): Multisite : No
+[06/Jul/2019:03:51:00] (ℹ️): Server Info : Apache/2.4.29 (Ubuntu)
+[06/Jul/2019:03:51:00] (ℹ️): PHP Version : 7.2.19-0ubuntu0.18.04.1
+[06/Jul/2019:03:51:00] (ℹ️): HTTPS : No
+[06/Jul/2019:03:51:00] (ℹ️): PHP Max Execution Time : 30
+[06/Jul/2019:03:51:00] (ℹ️): PHP Max Input Vars : 1000
+[06/Jul/2019:03:51:00] (ℹ️): Max Upload Size : 8388608
+[06/Jul/2019:03:51:00] (ℹ️): Plugins:
+[06/Jul/2019:03:51:00] (ℹ️): [PLUGIN] GetResponse for WordPress : v5.4.2 (GetResponse)
+[06/Jul/2019:03:51:00] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.8.4 (Themeisle)
+[06/Jul/2019:03:51:00] (ℹ️): [PLUGIN] WPForms Lite : v1.5.3.1 (WPForms)
+[06/Jul/2019:03:51:00] (🔵): Installing elementor.
+[06/Jul/2019:03:51:00] (🔵): Activating elementor.
+[06/Jul/2019:03:51:00] (✅): Installed and activated plugins.

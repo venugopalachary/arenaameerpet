@@ -1,0 +1,29 @@
+﻿
+
+/* CLIENT CAROUSEL STYLES */
+.clients-carousel {
+    margin-top: 50px; /*SMALL TOP MARGIN FOR SPACE */
+    padding: 0 30px 30px 30px;
+}
+
+   
+
+    .clients-carousel .carousel-control.left {
+        height: 30px;
+        width: 25px;
+        margin-top: 45px;
+        background: #F00;
+        left: -15px;
+    }
+
+    .clients-carousel .carousel-control.right {
+        height: 30px;
+        width: 25px;
+        margin-top: 45px;
+        background: #F00;
+        right: -15px;
+    }
+
+    .clients-carousel img {
+    margin-top: 20px;
+    }
